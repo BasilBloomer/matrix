@@ -3,3 +3,5 @@ This project is designed to show my comment regimen using variable name prefixes
 The comments also show the individual steps that the code takes to complete the required task and demonstrates modularized code with the use of custom functions.
 
 The project itself is a matrix calculator that solves a partial fraction integral.
+
+Note: Project was completed in MATLAB, "%" denotes a comment.
